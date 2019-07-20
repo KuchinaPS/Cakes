@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cakes.iml" filepath="$PROJECT_DIR$/.idea/Cakes.iml" />
       <module fileurl="file://$PROJECT_DIR$/../HMcakes/.idea/HMcakes.iml" filepath="$PROJECT_DIR$/../HMcakes/.idea/HMcakes.iml" />
     </modules>
   </component>
